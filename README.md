@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Aazain Jan</h1>
-<h3 align="center">I’m a dedicated software engineer focused on building scalable, efficient, and maintainable systems.</h3>
+<h1 align="center">Hi 👋, I'm Aazain</h1>
+<h3 align="center">I’m a dedicated software engineer focused on building scalable, efficient, and maintainable systems.loper from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aazainjan&label=Profile%20views&color=0e75b6&style=flat" alt="aazainjan" /> </p>
 
 - 🔭 I’m currently working on **expanding my skills set regarding front end development**
 
-- 📝 I weekly (every thursday) write articles on [www.azjandevdiary.com](www.azjandevdiary.com)
+- 📝 I regularly write articles on [www.azjandevdiary.com](www.azjandevdiary.com)
 
 - 💬 Ask me about **HTML,CSS,Javascript,PHP**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aazain-jan-805bbb313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aazain-jan-805bbb313/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aazain jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aazain jan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29024864/aazain-jan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29024864/aazain-jan" height="30" width="40" /></a>
 <a href="https://instagram.com/_.niaaza._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.niaaza._" height="30" width="40" /></a>
 </p>
 
