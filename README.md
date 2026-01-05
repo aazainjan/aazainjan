@@ -21,12 +21,11 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════╗
-║ I am a Software Engineering student at BUITEMS (2023-2027).     ║
-║ I build digital solutions that prioritize the user, blending    ║
-║ technical precision with creative intuition. My focus lies at   ║
-║ the intersection of high-level programming and user-centric     ║
-║ design. I am committed to creating innovative digital spaces    ║
-║ and inspiring more girls to explore technology.                 ║
+║      Software Engineering student at BUITEMS (2023–2027).        ║
+║    I build user-focused digital solutions by blending clean      ║
+║    code with thoughtful design. Passionate about open source,    ║
+║    I’m always happy to help with README fixes and meaningful     ║
+║    contributions.                                                ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
