@@ -10,7 +10,7 @@
 
 ┌─────────────────────────────────────────────────────────────┐  
 │ `LinkedIn` [aazain-jan](https://linkedin.com/in/aazain-jan) │  
-│ `Email` [aazainjan24@gmail.com](mailto:aazainjan24@gmail.com) │  
+│ `Email` [aazainjaan5@gmail.com](mailto:aazainjaan5@gmail.com) │  
 └─────────────────────────────────────────────────────────────┘
 
 </div>
