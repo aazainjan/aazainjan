@@ -27,12 +27,10 @@
 
 ## ˚ ༘ ✿ random facts about me
 
-- ☕ i love matcha, even if it's overrated — iced, oat milk, no sugar, don't @ me
+- ☕ I love matcha, even if it's overrated — iced, oat milk, no sugar, don't @ me
 - 🎀 my code comments are probably more organized than my actual room
 - 🌷 pinterest board > actual to-do list, 90% of the time
-- 📓 i will absolutely color-code my notes before i debug my code
-- 🧋 soft aesthetics, strong opinions about semicolons
-- ✨ if it's not pink or pastel, is it even my desktop wallpaper
+- 📓 I will absolutely color-code my notes before i debug my code
 
 ## ˚ ༘ ✿ my skillset
 
@@ -74,6 +72,6 @@
 
 ·˚ ༘ ⋆｡˚ 🎀 ⋆｡˚ ༘⋆｡˚ 🎀 ⋆｡˚ ༘ ⋆｡
 
-**thanks for stopping by my little corner of github 🎀 let's build something cute (and functional) together!**
+**Thanks for stopping by my little corner of GitHub 🎀 Let's build something cute (and functional) together!**
 
 </div>
