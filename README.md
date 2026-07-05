@@ -26,20 +26,20 @@
 
 </div>
 
-## ⋆｡˚୨୧ about me
+## ⋆｡˚୨୧ About me
 
 > Software Engineering student at **BUITEMS (2023–2027)** 🎓  
 > Building thoughtful digital experiences through clean code and intuitive design.  
 > Passionate about open source, beautiful documentation, and creating projects that are both useful and aesthetically pleasing. 🌿
 
-## ⋆｡˚୨୧ little things about me
+## ⋆｡˚୨୧ Little things about me
 
 - 🍵 Matcha is my comfort drink—iced, oat milk, no sugar.
 - 🌊 My Pinterest boards are somehow more organized than my life.
 - 📓 I color-code everything before I even start studying.
 - ✨ I believe software should be as beautiful as it is functional.
 
-## ⋆｡˚୨୧ my skillset
+## ⋆｡˚୨୧ My skillset
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 
 ୨୧ ────────────── ✦ ────────────── ୨୧
 
-*"Thanks for wandering into my little corner of GitHub."* 🌴  
+*Thanks for wandering into my little corner of GitHub. 🌴*  
 *Let's build things that are beautiful, meaningful, and made with care.*
 
 </div>
