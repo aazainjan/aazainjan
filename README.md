@@ -2,7 +2,7 @@
 
 # ୨୧₊˚ AAZAIN JAN ˚₊୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3500&pause=1200&color=B88FA4&center=true&vCenter=true&width=720&lines=software+engineering+student+%E2%99%A1;building+with+code+%26+curiosity;designing+little+things+that+feel+good;pixel+art+%2B+software+%2B+ideas" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3500&pause=1200&color=7BA7C9&center=true&vCenter=true&width=720&lines=software+engineering+student+%E2%99%A1;building+with+code+%26+curiosity;designing+little+things+that+feel+good;pixel+art+%2B+software+%2B+ideas" />
 
 <br>
 
@@ -50,7 +50,7 @@ This GitHub is where I keep the things I build, break, learn from, and occasiona
 <tr>
 <td width="50%" valign="top">
 
-### ♡ learning
+### ✦ learning
 
 ```text
 01  Software Engineering
@@ -66,7 +66,7 @@ This GitHub is where I keep the things I build, break, learn from, and occasiona
 
 <td width="50%" valign="top">
 
-### ♡ making
+### ✧ making
 
 ```text
 01  web applications
@@ -92,9 +92,9 @@ This GitHub is where I keep the things I build, break, learn from, and occasiona
 
 <br>
 
-🎀 **code**　·　🪞 **design**　·　🪽 **AI**
-🧸 **pixels**　·　📓 **projects**　·　☁️ **ideas**
-💌 **documentation**　·　🩰 **experiments**
+✦ **code**　·　⌁ **design**　·　⟡ **AI**
+⋆ **pixels**　·　୨୧ **projects**　·　☾ **ideas**
+✧ **documentation**　·　⊹ **experiments**
 
 <br>
 
@@ -142,7 +142,7 @@ This GitHub is where I keep the things I build, break, learn from, and occasiona
 
 <td width="33%" align="center" valign="top">
 
-### 🎀
+### ✦
 
 **SMARTTENDER-AI**
 
@@ -157,7 +157,7 @@ tender preparation.
 
 <td width="33%" align="center" valign="top">
 
-### 🧸
+### ⟡
 
 **VFS BROWSER**
 
@@ -171,7 +171,7 @@ OOP & design patterns.
 
 <td width="33%" align="center" valign="top">
 
-### 🪽
+### ⋆
 
 **TAHOE × RENO**
 
@@ -189,7 +189,7 @@ control behaviour.
 
 <td width="33%" align="center" valign="top">
 
-### 🪞
+### ✧
 
 **OOTDIFY**
 
@@ -203,7 +203,7 @@ visual interaction.
 
 <td width="33%" align="center" valign="top">
 
-### ☁️
+### ☾
 
 **SMART ENERGY**
 
@@ -217,7 +217,7 @@ understanding energy waste.
 
 <td width="33%" align="center" valign="top">
 
-### 💌
+### ୨୧
 
 **THE NEXT ONE**
 
@@ -242,7 +242,7 @@ and not enough hours.
 
 <br>
 
-🖥️　☕　📖　🎀　⌨️　🧸
+✦　⌨　☾　⋆　✧　୨୧
 
 <br><br>
 
@@ -328,6 +328,6 @@ If something here catches your eye:
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B88FA4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7BA7C9&height=120&section=footer"/>
 
 </div>
