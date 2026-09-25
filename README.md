@@ -1,333 +1,166 @@
 <div align="center">
 
-# ୨୧₊˚ AAZAIN JAN ˚₊୨୧
+# AAZAIN JAN
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=25&duration=3500&pause=1200&color=7BA7C9&center=true&vCenter=true&width=720&lines=software+engineering+student+%E2%99%A1;building+with+code+%26+curiosity;designing+little+things+that+feel+good;pixel+art+%2B+software+%2B+ideas" />
+**Software Engineer · AI/ML · Backend Systems**
 
-<br>
-
-**software engineering · design · AI · pixels**
-
-`BUITEMS '27`　·　`Pakistan`　·　`@aazainjan`
+Building intelligent software, reliable APIs, and systems designed to solve real problems.
 
 <br>
 
-୨୧ ───────────────────────── ୨୧
-
-<br>
-
-*welcome to my little corner of the internet.*
+[![GitHub](https://img.shields.io/badge/GitHub-aazainjan-181717?style=flat\&logo=github)](https://github.com/aazainjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aazain%20Jan-0A66C2?style=flat\&logo=linkedin)](https://linkedin.com/in/aazain-jan)
+[![Email](https://img.shields.io/badge/Email-Contact-7BA7C9?style=flat\&logo=gmail\&logoColor=white)](mailto:aazainjaan5@gmail.com)
 
 </div>
 
-<br>
+---
 
-## ୨୧ `A NOTE FROM MY DESK`
+## Profile
 
-I like making things.
+Software Engineer working at the intersection of **Artificial Intelligence and Software Engineering**.
 
-Sometimes that means writing a few hundred lines of code.
-Sometimes it means opening Figma and losing track of time.
-Sometimes it means making a tiny pixel-art scene for absolutely no practical reason.
+My work focuses on building practical AI systems, backend services, and software architectures — with an emphasis on **clarity, reliability, and maintainability**.
 
-I'm a **Software Engineering student at BUITEMS**, interested in the space where **technology and creativity overlap** — software that works well, looks intentional, and feels good to use.
+Areas I work with include:
 
-This GitHub is where I keep the things I build, break, learn from, and occasionally become far too attached to.
+* **Artificial Intelligence & Machine Learning**
+* **Generative AI & Retrieval-Augmented Generation**
+* **Multi-Agent Systems**
+* **Backend Engineering & API Design**
+* **Systems & Computer Networks**
+* **Data Processing & Document Intelligence**
 
-<br>
+---
+
+## Technical Focus
 
 <div align="center">
 
-### `currently: building · learning · collecting ideas`
+### Artificial Intelligence
+
+`Machine Learning` · `Generative AI` · `RAG` · `Multi-Agent Systems` · `OCR`
+
+### Engineering
+
+`Backend Development` · `REST APIs` · `System Design` · `Testing` · `Network Systems`
+
+### Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,mysql,git,github,linux,figma" />
 
 </div>
 
-<br>
+---
 
-## ୨୧ `THE CURRENT CHAPTER`
+## Selected Engineering Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### SmartTender-AI
 
-### ✦ learning
+**Multi-agent AI system for automated public procurement workflows.**
+
+Designed to analyze tender documents, extract requirements, identify compliance conditions, and support automated bid preparation.
+
+**Focus:** AI agents · RAG · document intelligence · compliance · OCR
+
+`Python` `FastAPI` `PostgreSQL` `ChromaDB` `OCR`
+
+[Repository →](https://github.com/aazainjan/SmartTender-AI)
+
+---
+
+### PacketViz
+
+**Interactive network traffic visualizer for PCAP files.**
+
+A network analysis system that parses packet captures, analyzes flows and statistics, and transforms network traffic into an interactive visual representation.
+
+**Focus:** packet analysis · network flows · visualization · systems
+
+`Python` `PCAP` `Network Analysis` `SVG`
+
+[Repository →](https://github.com/aazainjan/PacketViz)
+
+---
+
+### VFS Browser
+
+**Object-oriented virtual file system implemented in Java.**
+
+Explores hierarchical storage, abstraction, object-oriented architecture, and software design patterns through a simulated file system.
+
+`Java` `OOP` `Design Patterns`
+
+[Repository →](https://github.com/aazainjan/vfs-browser)
+
+---
+
+### Tahoe × Reno
+
+**TCP congestion-control simulation and analysis.**
+
+A networking project examining the behaviour of TCP Tahoe and Reno through controlled simulation and network experimentation.
+
+`Python` `Mininet` `TCP/IP` `Networking`
+
+[Repository →](https://github.com/aazainjan/CN-TahoeReno-AazainJan)
+
+---
+
+## Engineering Principles
 
 ```text
-01  Software Engineering
-02  Artificial Intelligence
-03  Machine Learning
-04  Computer Networks
-05  IoT
-06  UI / UX
-07  System Design
+Understand the problem.
+        ↓
+Design the system.
+        ↓
+Build with purpose.
+        ↓
+Test the assumptions.
+        ↓
+Improve what matters.
 ```
 
-</td>
+I value software that is **understandable, testable, and useful** — not simply software that works once.
 
-<td width="50%" valign="top">
+---
 
-### ✧ making
-
-```text
-01  web applications
-02  AI experiments
-03  developer tools
-04  network simulations
-05  IoT systems
-06  Figma prototypes
-07  pixel art
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+## GitHub Activity
 
 <div align="center">
 
-୨୧ ─────────────── ✦ ─────────────── ୨୧
+<img src="https://github-readme-stats.vercel.app/api?username=aazainjan&show_icons=true&hide_border=true&theme=transparent&title_color=7BA7C9&icon_color=7BA7C9&include_all_commits=true" height="170"/>
 
-### `MY LITTLE DRAWER`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazainjan&layout=compact&hide_border=true&theme=transparent&title_color=7BA7C9&langs_count=6" height="170"/>
 
-<br>
+<br><br>
 
-✦ **code**　·　⌁ **design**　·　⟡ **AI**
-⋆ **pixels**　·　୨୧ **projects**　·　☾ **ideas**
-✧ **documentation**　·　⊹ **experiments**
-
-<br>
-
-*things currently taking up space in my brain.*
+<img src="https://streak-stats.demolab.com?user=aazainjan&theme=transparent&hide_border=true&ring=7BA7C9&fire=7BA7C9&currStreakLabel=7BA7C9" height="170"/>
 
 </div>
 
-<br>
+---
 
-## ୨୧ `THE THINGS I SPEAK`
+## Beyond Code
 
-<div align="center">
+Engineering is only part of how I think.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,php,js,mysql,html,css,figma,git,github,linux" />
+I enjoy **visual design, interface experimentation, and pixel art** — creative work that brings a different perspective to technical problem solving.
 
-<br><br>
-
-`C` · `C++` · `Python` · `Java` · `PHP` · `JavaScript`
-`MySQL` · `HTML` · `CSS` · `Figma` · `Git` · `Linux`
-
-<br><br>
-
-**currently exploring**
-
-`AI`　`ML`　`IoT`　`Networking`　`UI/UX`　`Pixel Art`
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
-୨୧ ─────────────── ✦ ─────────────── ୨୧
+## Let's build useful things.
 
-### `FROM THE SKETCHBOOK`
-
-*some things I've built along the way.*
-
-</div>
+**AI · Software · Systems**
 
 <br>
 
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### ✦
-
-**SMARTTENDER-AI**
-
-An AI-powered
-multi-agent system
-for automated
-tender preparation.
-
-`AI` · `RAG` · `OCR`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⟡
-
-**VFS BROWSER**
-
-A virtual file system
-built with Java,
-OOP & design patterns.
-
-`JAVA` · `OOP`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⋆
-
-**TAHOE × RENO**
-
-A simulation exploring
-TCP congestion
-control behaviour.
-
-`PYTHON` · `MININET`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### ✧
-
-**OOTDIFY**
-
-A fashion discovery
-prototype focused on
-visual interaction.
-
-`FIGMA` · `UI/UX`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ☾
-
-**SMART ENERGY**
-
-An IoT + ML project
-for detecting and
-understanding energy waste.
-
-`IOT` · `ML`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ୨୧
-
-**THE NEXT ONE**
-
-There are currently
-too many ideas
-and not enough hours.
-
-`...`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-୨୧ ─────────────── ✦ ─────────────── ୨୧
-
-### `PIXEL DIARY`
-
-<br>
-
-✦　⌨　☾　⋆　✧　୨୧
+[GitHub](https://github.com/aazainjan) · [LinkedIn](https://linkedin.com/in/aazain-jan) · [Portfolio](https://github.com/aazainjan/My-Portfolio)
 
 <br><br>
 
-**tiny pixels · tiny details · tiny worlds**
-
-<br>
-
-I love pixel art because there is something strangely beautiful
-about building an entire little world one square at a time.
-
-</div>
-
-<br>
-
-## ୨୧ `THINGS I'VE LEARNED`
-
-<div align="center">
-
-> **01** — make it work.
-> **02** — make it make sense.
-> **03** — then make it pretty.
-
-</div>
-
-<br>
-
-```text
-good design isn't decoration.
-it's communication.
-
-unfinished projects aren't failures.
-they're evidence that you were curious enough to begin.
-
-the best ideas usually start with:
-"wait... what if?"
-
-and yes —
-sometimes the README takes longer than the project.
-```
-
-<br>
-
-<div align="center">
-
-୨୧ ─────────────── ✦ ─────────────── ୨୧
-
-### `A LITTLE FOOTNOTE`
-
-<br>
-
-I'm still learning.
-
-Still collecting ideas.
-Still opening repositories at unreasonable hours.
-Still finding bugs five minutes after saying
-*"okay, I think it's finally working."*
-
-<br>
-
-And there are still a lot of things I want to build.
-
-<br>
-
-`idea → prototype → chaos → debugging → coffee → finished`
-
-<br><br>
-
-**thanks for stopping by. ♡**
-
-<br>
-
-If something here catches your eye:
-
-<br>
-
-<a href="https://github.com/aazainjan">github</a>
-　୨୧　 <a href="https://linkedin.com/in/aazain-jan">linkedin</a>
-　୨୧　 <a href="mailto:aazainjaan5@gmail.com">email</a>
-
-<br><br>
-
-*made with code, curiosity & a slightly excessive number of ideas.*
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7BA7C9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7BA7C9&height=100&section=footer"/>
 
 </div>
